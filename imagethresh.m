@@ -1,5 +1,6 @@
 % Project Title: Object classification and Image segmentation Using Differential Evolution (DE) in MATLAB
-%	--To threshold image without using graythresh function
+%	-- To threshold image without using graythresh function
+%	-- The objective function is intra-class variance that will be minimized
 %
 %	Coded by: Mukesh Saraswat, saraswatmukesh@gmail.com 
 %	Edited by: Himanshu Mittal, himanshu.mittal224@gmail.com
